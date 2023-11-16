@@ -1,0 +1,20 @@
+body{
+    transition: background-color 1s, color 1s;
+}
+
+.dark-mode{
+    background-color: #000;
+    color: #FFF;
+}
+#top{
+    text-align: center;
+    background-color: #F00;
+    color: #FFF;
+}
+#titulo{
+    background-color: #FFF;
+    color: #F00;
+}
+article{
+    text-align: center;
+}
